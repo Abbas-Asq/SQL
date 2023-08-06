@@ -1,4 +1,4 @@
-<h3 align="Covid 19 - Data Exploration</h3>
+<h3 align="Covid 19 - Data Exploration"</h3>
   
 #
 #
